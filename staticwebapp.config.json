@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "route": "/QRCODE01*",
+      "rewrite": "/QRCODE01/index.html"
+    },
+    {
+      "route": "/QRCODE02*",
+      "rewrite": "/QRCODE02/index.html"
+    },
+    {
+      "route": "/QRCODE03*",
+      "rewrite": "/QRCODE03/index.html"
+    },
+    {
+      "route": "/QRCODE04*",
+      "rewrite": "/QRCODE04/index.html"
+    },
+    {
+      "route": "/QRCODE05*",
+      "rewrite": "/QRCODE05/index.html"
+    },
+    {
+      "route": "/QRCODE06*",
+      "rewrite": "/QRCODE07/index.html"
+    },
+    {
+      "route": "/QRCODE07*",
+      "rewrite": "/QRCODE07/index.html"
+    },
+    {
+      "route": "/QRCODE08*",
+      "rewrite": "/QRCODE08/index.html"
+    },
+    {
+      "route": "/QRCODE09*",
+      "rewrite": "/QRCODE09/index.html"
+    },
+    {
+      "route": "/QRCODE010*",
+      "rewrite": "/QRCODE010/index.html"
+    },
+    {
+      "route": "/QRCODE11*",
+      "rewrite": "/QRCODE11/index.html"
+    },
+    {
+      "route": "/QRCODE12*",
+      "rewrite": "/QRCODE12/index.html"
+    }
+  ]
+}
